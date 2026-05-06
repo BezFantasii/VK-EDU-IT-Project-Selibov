@@ -31,8 +31,20 @@
 ### Схема уровень 2
 <img width="1498" height="1178" alt="image" src="https://github.com/user-attachments/assets/0388c074-9592-4d93-b370-a2c7c4f8bb01" />
 
-### Команда
+### Стек технологий
+| Компонент | Технология |
+|-----------|------------|
+| Frontend Web | React 19 + Vite |
+| Mobile App | Flutter 3.x |
+| Reverse Proxy | Nginx |
+| Backend | FastAPI + Uvicorn |
+| Database | PostgreSQL 16 |
+| File Storage | Yandex Cloud S3 |
+| Payments | ЮKassa SDK |
+| Push Notifications | Firebase Cloud Messaging |
+| Process Manager | Gunicorn + Uvicorn Workers |
 
+### Команда
 ## Команда и роли
 | Роль | Главные зоны ответственности |
 |------|------------------------------|
