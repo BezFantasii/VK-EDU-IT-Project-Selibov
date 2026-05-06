@@ -1,17 +1,37 @@
 # VK-EDU-IT-Project-Selibov
 [https://miro.com/welcomeonboard/elhrQjJzT1lJdzhiNVFWK3BMMW1RSk9seDM5MmJDQ2dDSmd3c1o1SFR0UmRWUjI0U2Q4RGJITCszV0xYN0xDblJQeXpSUGYwRGFEUHhBUTg1dm5zcWxyVUlRTUI3aE9mbnZtSE96TzFBLzlQbHlQelNoR0dQeFNUSlFvSmwyUEVQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=230748339918](https://miro.com/app/board/uXjVGsWmu0U=/) - ссылка на дз в miro
 # Скриншоты:
--- 
-Идеи + Elevator pitch
---
+### Идеи + Elevator pitch
 <img width="1450" height="330" alt="image" src="https://github.com/user-attachments/assets/e29492b3-c75d-4245-9318-5ccf0ac1d6d5" />
--- 
-Lean Canvas 
---
+
+### Lean Canvas 
 <img width="1470" height="932" alt="image" src="https://github.com/user-attachments/assets/cb9bec05-7fa1-4da6-8e3a-4287b6379745" />
 
+### Роли
+<img width="1228" height="1014" alt="image" src="https://github.com/user-attachments/assets/67af1ced-43be-484b-8a2b-ca977f6d2e01" />
 
-### Пункт 5
+### ФТ+НФТ, MVP, MLP
+<img width="1209" height="842" alt="image" src="https://github.com/user-attachments/assets/9568a53e-b150-4907-bdaf-6f28b4f1a27e" />
+
+### DDD
+<img width="1075" height="848" alt="image" src="https://github.com/user-attachments/assets/9f276bc6-add1-4411-99ff-0f90614b0f6d" />
+
+### BDD
+<img width="1531" height="513" alt="image" src="https://github.com/user-attachments/assets/a1d9aada-14eb-4916-aff5-2be94b6ed21d" />
+
+### Фрейминги
+<img width="1010" height="490" alt="image" src="https://github.com/user-attachments/assets/5171aa6d-a3a3-4ec0-99ee-f7414b39ac52" />
+
+### API-First "ручки"
+<img width="1308" height="958" alt="image" src="https://github.com/user-attachments/assets/9b83b82a-41bd-4a0d-a1ba-3ab1b030b254" />
+
+### Схема уровень 1
+<img width="1075" height="815" alt="image" src="https://github.com/user-attachments/assets/e5fecdbd-735c-4f36-8d16-0bcadb375afd" />
+
+### Схема уровень 2
+<img width="1498" height="1178" alt="image" src="https://github.com/user-attachments/assets/0388c074-9592-4d93-b370-a2c7c4f8bb01" />
+
+### Команда
 
 ## Команда и роли
 | Роль | Главные зоны ответственности |
@@ -22,16 +42,12 @@ Lean Canvas
 | **Tech Lead + Fullstack Developer** | Tech Lead принимает финальные решения по архитектуре и стеку. Fullstack разрабатывает клиентскую и серверную части для быстрой сборки рабочего прототипа. |
 | **QA Manual** | Проходит ключевые сценарии вручную, ищет критические баги и тестирует граничные случаи до выкатки релиза. |
 
---
-
 ## Методология разработки: Scrum
 Выбранная методология: **Scrum**.
 
 - **Итеративная поставка работающего продукта:** Scrum разбивает разработку на короткие спринты. В конце каждого цикла команда отдаёт готовый инкремент MVP, который можно сразу показать пользователям и собрать фидбек.
 - **Готовность к изменениям выше следования плану:** Если в ходе тестирования выяснится, что какая-то фича не нужна, а другая критична для конверсии, команда быстро перестроит Product Backlog без срыва дедлайнов и бюджета.
 - **Фокус на кросс-функциональной самоорганизации:** Команда сама решает, КАК достичь цели спринта. Это исключает «технологии ради технологий» и концентрирует усилия на проверке бизнес-гипотезы, что идеально для старта по конкретному ТЗ.
-
---
 
 ## Командные ритуалы
 | Ритуал | Цель | Частота |
@@ -41,10 +57,10 @@ Lean Canvas
 | **Обзор спринта**  | Демонстрация работающего инкремента стейкхолдерам и пользователям. Сбор фидбека, валидация бизнес-гипотез. | 1 раз в 2 недели (конец спринта) |
 | **Ретроспектива** | Анализ процессов, поиск точек роста, фиксация улучшений. Формирует культуру постоянного внимания к техническому совершенству. | 1 раз в 2 недели (сразу после Review) |
 
---
 
 
-### Пункт 6
+
+### Риски
 
 | № | Риск | Тип | Вероятность | Влияние | Уровень | Стратегия |
 |---|------|-----|-------------|---------|---------|-----------|
